@@ -1,0 +1,14 @@
+prod.env
+code/cities/__pycache__/
+code/cities/migrations/
+
+code/countries/__pycache__/
+code/countries/migrations/
+code/config/__pycache__/
+code/core/__pycache__/
+code/core/management/__pycache__/
+code/core/management/commands/__pycache__/
+code/core/migrations/__pycache__/
+code/users/__pycache__/
+code/users/migrations/
+code/users/migrations/__pycache__/
